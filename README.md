@@ -19,7 +19,7 @@ The Sign-Up Application is a user registration system designed to allow users to
 
 1. Clone the repository:
     ```bash
-    git clone[https://github.com/Mohamedabdalaziem/Cpp-basics-]
+    git clone[https://github.com/Mohamedabdalaziem/Cpp-basics-.git]
     cd signup-application
     ```
 
